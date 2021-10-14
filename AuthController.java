@@ -103,7 +103,7 @@ public class AuthController {
 
         // check if org and user already exist but not activated
 
-        if (!orgList.isEmpty() && !orgUserList.isEmpty()) {
+       /* if (!orgList.isEmpty() && !orgUserList.isEmpty()) {
 
             if ((orgList.get(0).getOrg_email_id().equals((String) orgMap.get("org_email_id"))
                     && orgList.get(0).getActive_flag() == 0)
@@ -116,6 +116,7 @@ public class AuthController {
             }
 
         }
+		*/
 
         if (!orgList.isEmpty()) {
 
