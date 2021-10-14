@@ -6,4 +6,4 @@ Steps to check in the code into Git Hub:
 2. Add files
 3. Commit 
 4. Push to Remote
-5. Make chnages to files
+5. Make changes to files
